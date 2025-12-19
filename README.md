@@ -3,8 +3,8 @@
 I’m a **Computer Science, Statistics, and Mathematics student** at the University of Virginia interested in building systems at the intersection of software, data, finance, and real-world applications. I enjoy working on technically challenging problems that combine theory with hands-on implementation.
 
 ## 🛠️ Languages & Tools
-- **Languages:** Python, Java, C/C++, SQL  
-- **ML & CV:** PyTorch, TensorFlow, OpenCV, YOLOv8  
+- **Languages:** Python, Java, C/C++, SQL, JavaScript  
+- **ML & CV:** PyTorch, TensorFlow, OpenCV, YOLO  
 - **Tools:** Git, Linux, Docker, Arduino, Raspberry Pi  
 
 ## 🚀 Interests
