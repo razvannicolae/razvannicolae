@@ -20,9 +20,3 @@ I’m a **Computer Science, Statistics, and Mathematics student** at the Univers
 
 ## ⚽ Outside of Code
 In my free time, I enjoy playing **soccer** and **pickleball**.
-
----
-
-📫 **Let’s connect:**  
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourprofile  
